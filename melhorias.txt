@@ -1,0 +1,6 @@
+mudanças: 
+
+- o menu suspenso não corresponde ao tamanho da tela, se estiver na tela cheia, ele fica colado na esquerda, so funciona com o zoom
+- css na parte de fotos, arquivo fotos.css, existem varias class pro arquvivo foto, ex (foto01, foto02)
+- criar uma condição para mudar entre o video do youtube e video do arquivo
+- posicionar o  <fieldset id="mensagem"> acima do textarea
